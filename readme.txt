@@ -1,1 +1,1 @@
-This is a project by YaoMing and ShenDuo.
+This is a project developed by YaoMing and ShenDuo.
